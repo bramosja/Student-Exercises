@@ -1,0 +1,11 @@
+/Users/bramosja/workspace/csharp/exercises/studentEx1/bin/Debug/netcoreapp2.2/studentEx1.deps.json
+/Users/bramosja/workspace/csharp/exercises/studentEx1/bin/Debug/netcoreapp2.2/studentEx1.runtimeconfig.json
+/Users/bramosja/workspace/csharp/exercises/studentEx1/bin/Debug/netcoreapp2.2/studentEx1.runtimeconfig.dev.json
+/Users/bramosja/workspace/csharp/exercises/studentEx1/bin/Debug/netcoreapp2.2/studentEx1.dll
+/Users/bramosja/workspace/csharp/exercises/studentEx1/bin/Debug/netcoreapp2.2/studentEx1.pdb
+/Users/bramosja/workspace/csharp/exercises/studentEx1/obj/Debug/netcoreapp2.2/studentEx1.csprojAssemblyReference.cache
+/Users/bramosja/workspace/csharp/exercises/studentEx1/obj/Debug/netcoreapp2.2/studentEx1.csproj.CoreCompileInputs.cache
+/Users/bramosja/workspace/csharp/exercises/studentEx1/obj/Debug/netcoreapp2.2/studentEx1.AssemblyInfoInputs.cache
+/Users/bramosja/workspace/csharp/exercises/studentEx1/obj/Debug/netcoreapp2.2/studentEx1.AssemblyInfo.cs
+/Users/bramosja/workspace/csharp/exercises/studentEx1/obj/Debug/netcoreapp2.2/studentEx1.dll
+/Users/bramosja/workspace/csharp/exercises/studentEx1/obj/Debug/netcoreapp2.2/studentEx1.pdb
