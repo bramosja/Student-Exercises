@@ -104,6 +104,30 @@ namespace NSS
             steve.AssignExercise(c30, comments);
             steve.AssignExercise(c30, functions);
 
+            List<Cohort> Cohorts = new List<Cohort>();
+
+            Cohorts.Add(c28);
+            Cohorts.Add(c29);
+            Cohorts.Add(c30);
+
+            List<Student> AllStudents = new List<Student>();
+
+            foreach(Cohort cohort in Cohorts) {
+
+                List<Student> students = new List<Student>();
+
+                foreach(Student student in cohort.Students){
+                    students.Add(student);
+
+                    List<Exercise> exercises = new List<Exercise>();
+
+                    foreach(Exercise exercise in student.Exercises){
+                        exercises.Add(exercise);
+                        Console.WriteLine($"{student.firstname} is working on {exercise.name}");
+                    }
+                }
+            }
+
         }
     }
 }
