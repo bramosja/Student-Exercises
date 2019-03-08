@@ -40,22 +40,27 @@ namespace NSS
             elyse.firstname = "Elyse";
             elyse.lastname = "?";
             elyse.slackhandle = "@heyelyse";
+            elyse.Exercises = new List<Exercise>();
 
             cole.firstname = "Cole";
             cole.lastname = "Slaw";
             cole.slackhandle = "@theColeSlaw";
+            cole.Exercises = new List<Exercise>();
 
             austin.firstname = "Austin";
             austin.lastname = "Bladez";
             austin.slackhandle = "@BladezOfMaury";
+            austin.Exercises = new List<Exercise>();
 
             jordan.firstname = "Jordan";
             jordan.lastname = "Rosas";
             jordan.slackhandle = "@RosasArePink";
+            jordan.Exercises = new List<Exercise>();
 
             brian.firstname = "Brian";
             brian.lastname = "HannahsHubby";
             brian.slackhandle = "@hannahIsTheBestOMG";
+            brian.Exercises = new List<Exercise>();
 
 
             c28.Students = new List<Student>();
@@ -67,6 +72,7 @@ namespace NSS
             c29.Students.Add(austin);
             c29.Students.Add(jordan);
             c30.Students.Add(brian);
+
 
             // Create 3, or more, instructors and assign them to one of the cohorts.
 

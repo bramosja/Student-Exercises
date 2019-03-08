@@ -9,8 +9,6 @@ namespace NSS {
 
         public void AssignExercise(Cohort cohort, Exercise exercise){
             foreach(Student student in cohort.Students){
-                student.Exercises = new List<Exercise>();
-
                 student.Exercises.Add(exercise);
             }
         }
