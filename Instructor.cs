@@ -7,6 +7,8 @@ namespace NSS {
         public string lastname { get; set; }
         public string slackhandle { get; set; }
 
+        public string cohort { get; set; }
+
         public void AssignExercise(Cohort cohort, Exercise exercise){
             foreach(Student student in cohort.Students){
                 student.Exercises.Add(exercise);
